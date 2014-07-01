@@ -20,7 +20,7 @@ body{
   position: relative;
   position: fixed;
   z-index: 4;
-  width: 100%;
+  width: 98.5%;
   background-color: white;
 }
 #graphicsLayer1_layer circle{
